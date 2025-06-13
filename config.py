@@ -8,10 +8,10 @@ API_ID = int(os.environ.get("API_ID", "21567814"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","cd7dc5431d449fd795683c550d7bfb7e")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN","7660912720:AAEyjGCAWatgtuyLoyz-smkyxXJnbbbbbbw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN","7376874106:AAG6ixunBF8aF5HBR87kWsecj3Q8GJ5P0RQ")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@h_stranger_ankbot")
-BOT_TEXT = "h_stranger_ankbot"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extrobintxtbot)
+BOT_TEXT = "@extrobintxtbot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6126688051"))
 # ------------------------------------------------
@@ -31,7 +31,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "@h_stranger_ankbot" #without @
+ADMIN_BOT_USERNAME = "@extrobintxtbot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/q3SX4gjQ/STRANGER-BOY.jpg")
 
