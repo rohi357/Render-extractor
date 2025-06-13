@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","cd7dc5431d449fd795683c550d7bfb7e")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN","7376874106:AAG6ixunBF8aF5HBR87kWsecj3Q8GJ5P0RQ")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extrobintxtbot)
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extrobintxtbot")
 BOT_TEXT = "extrobintxtbot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6126688051"))
